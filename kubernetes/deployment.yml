@@ -21,7 +21,7 @@ spec:
             - name: MLFLOW_TRACKING_URI
               value: https://user-shz42c-860709.user.lab.sspcloud.fr/
             - name: MLFLOW_MODEL_NAME
-              value: fastttext
+              value: nace-prediction
             - name: MLFLOW_MODEL_VERSION
               value: "1"
           resources:
